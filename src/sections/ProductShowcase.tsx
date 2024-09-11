@@ -22,11 +22,11 @@ export const ProductShowcase = () => {
     <div className="container">
       <div className='section-heading'>
           <div className='flex justify-center'>
-          <div className='tag'>Boost your Productive</div>
+          <div className='tag'>Boost your Productivity</div>
           </div>
           <h2 className='section-title mt-5'>
-            A more effective way to track progress
-            </h2>
+            An Efficient & Effective way to track progress
+          </h2>
           <p className='section-description mt-5'>
           Provides scalable, intuitive SaaS solutions to streamline business operations and boost growth. 
           Our platform enhances productivity with secure, cloud-based tools, accessible anytime, anywhere.
