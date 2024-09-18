@@ -30,7 +30,7 @@ export const Footer = () => {
         <SocialYoutube />
         </div>
         <p className='mt-6'>
-          &copy; 2024 Nexsys, Inc. All rights reserved.
+          &copy; 2024 Saas Company, Inc. All rights reserved.
         </p>
       </div>
     </footer>

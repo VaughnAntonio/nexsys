@@ -6,7 +6,7 @@ import { twMerge } from "tailwind-merge";
 const dmSans = DM_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Nexsys",
+  title: "Saas landing website",
   description: "Saas Website",
 };
 

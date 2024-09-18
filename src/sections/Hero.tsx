@@ -23,7 +23,7 @@ export const Hero = () => {
         <div className="md:w-[478px]">
           <div className="tag">Version 1.0 is here</div>
           <h1 className="text-5xl md:text-7xl font-bold tracking-tighter bg-gradient-to-b from-[#275950] to-[#2A8C82] text-transparent bg-clip-text mt-6 lg:left-0">
-            Nexsys Platform
+            Your Saas Company
           </h1>
           <p className="text-xl text-[#260101] tracking-tight mt-6">
             Streamline your business with our all-in-one platform—powerful tools, 
